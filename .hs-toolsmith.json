@@ -1,0 +1,14 @@
+{
+  "hsToolsmith": true,
+  "title": "drone-secure-iot",
+  "pitch": "Encrypt UAV telemetry and run AI anomaly detection via GCP IoT Core",
+  "language": "typescript",
+  "category": "Integration",
+  "keyFeatures": [
+    "AES‑256 encryption of outgoing telemetry",
+    "Vertex AI model inference for real‑time anomaly alerts",
+    "Out‑of‑the‑box GCP IoT Core client wrapper",
+    "Configurable alert webhook integration"
+  ],
+  "targetUsers": "Developers building cloud‑connected UAV services needing end‑to‑end data protection"
+}
